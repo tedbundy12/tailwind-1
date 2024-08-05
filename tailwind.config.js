@@ -23,7 +23,8 @@ export default {
         img: { max: '1250px'},
         textsmall: {max: '1225px'},
         simple: {max: '1420px'},
-        verysmall: {max: '400px'}
+        verysmall: {max: '400px'},
+        simpletext: {max: '745px'}
       },
     },
   },

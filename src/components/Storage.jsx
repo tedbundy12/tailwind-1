@@ -28,13 +28,13 @@ function Storage() {
             <div className="small-cont">
               <p className="text-[#E0E0E0] text-[14px] font-normal font-custom mb-[21px] leading-[28px] for:text-center small:px-2">
                 An open source Object store service with unlimited scalability,
-                for <br />
+                for <br className="for:hidden"/>
                 any file type.
               </p>
-              <p className="text-[#E0E0E0] text-[14px] font-custom font-normal mb-[64px] leading-[28px] for:text-center">
+              <p className="text-[#E0E0E0] text-[14px] font-custom font-normal mb-[64px] leading-[28px] for:text-center for:px-4">
                 With custom policies and permissions that are familiar and easy
                 to
-                <br />
+                <br className="for:hidden"/>
                 implement.
               </p>
             </div>
@@ -51,7 +51,7 @@ function Storage() {
         </div>
       </section>
 
-      <section class="flex items-center px-[160px] gap-x-[160px] int:flex-col int:items-center for:justify-center for:px-[0px] int:space-y-[80px] mb-[170px]">
+      <section class="flex items-center px-[160px] gap-x-[160px] int:px-0 int:flex-col int:items-center for:justify-center for:px-[0px] int:space-y-[80px] mb-[170px] verysmall:mb-30">
         <div class="intt int:flex-grow">
           <div class="flex items-center gap-x-[8px] mb-[18px]">
             <img src={int} alt="" />

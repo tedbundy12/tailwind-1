@@ -9,7 +9,7 @@ function App() {
       <Header />
       <Storage />
       <Sleek />
-      {/* <Simple /> */}
+      <Simple />
     </div>
   );
 }
