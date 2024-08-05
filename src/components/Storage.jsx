@@ -20,13 +20,13 @@ function Storage() {
               </p>
             </div>
             <div className="store mb-[52px]">
-              <p className="font-bold text-white text-[48px] leading-[57px] for:text-center small:text-[20px]">
+              <p className="font-bold text-white text-[48px] leading-[57px] for:text-center small:text-[40px]">
                 Store and serve <br />
                 any type of digital content
               </p>
             </div>
             <div className="small-cont">
-              <p className="text-[#E0E0E0] text-[14px] font-normal font-custom mb-[21px] leading-[28px] for:text-center">
+              <p className="text-[#E0E0E0] text-[14px] font-normal font-custom mb-[21px] leading-[28px] for:text-center small:px-2">
                 An open source Object store service with unlimited scalability,
                 for <br />
                 any file type.
@@ -38,7 +38,7 @@ function Storage() {
                 implement.
               </p>
             </div>
-            <div className="ml-[20px] for:flex for:justify-center">
+            <div className="ml-[20px] for:flex for:justify-center for:ml-0">
               <button className="rounded text-[14px] bg-button-green text-white font-custom px-[17px] w-[133px] h-[38px] whitespace-nowrap mb-[80px]">
                 Start a project
               </button>
