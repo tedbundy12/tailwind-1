@@ -2,6 +2,7 @@ import Header from "./components/Header.jsx";
 import Storage from "./components/Storage.jsx";
 import Sleek from "./components/Sleek.jsx";
 import Simple from "./components/Simple.jsx";
+import Integrates from "./components/Integrates.jsx";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Storage />
       <Sleek />
       <Simple />
+      <Integrates />
     </div>
   );
 }

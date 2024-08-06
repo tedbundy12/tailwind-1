@@ -14,6 +14,7 @@ export default {
         custom: ["Roboto", "sans-serif"],
       },
       screens: {
+        f: {max: '1422px'},
         first: { max: "1226px" },
         second: { max: "1050px" },
         maxCustom: { max: "777px" },
@@ -24,7 +25,10 @@ export default {
         textsmall: {max: '1225px'},
         simple: {max: '1420px'},
         verysmall: {max: '400px'},
-        simpletext: {max: '745px'}
+        simpletext: {max: '745px'},
+        s: {max: '600px'},
+        g: { max: "421px" },
+        h: {max: '331px'}
       },
     },
   },

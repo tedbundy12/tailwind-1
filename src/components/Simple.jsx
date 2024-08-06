@@ -7,7 +7,7 @@ import code from "../assets/code.svg";
 function Simple() {
   return (
     <div>
-      <div className="flex items-center gap-[163px] px-40 simple:flex-col simpletext:px-0 simpletext:text-center simpletext:gap-0">
+      <div className="flex items-center gap-[163px] px-40 simple:flex-col simpletext:px-0 simpletext:text-center simpletext:gap-0 mb-20">
         <div>
           <p className="text-[36px] font-custom font-normal leading-[43.2px] text-white mb-4 simpletext:mb-8 simpletext:text-[40px]">
             Simple and convenient <br className="simpletext:hidden"/> APIs
