@@ -5,7 +5,7 @@ import allow from '../assets/allow.svg'
 
 function Integrates() {
   return (
-    <div className='px-40 flex gap-[175px] items-center f:justify-center first:flex-col first:gap-20 f:px-0 small:text-center'>
+    <div className='px-40 flex gap-[175px] items-center f:justify-center first:flex-col first:gap-20 f:px-0 small:text-center mb-[264px]'>
         <div className=''>
             <p className='text-white font-custom font-normal leading-[43.2px] text-[36px] mb-[21px] h:px-2'>Integrates natively <br className=''/>
             with Supabase Auth</p>
